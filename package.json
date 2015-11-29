@@ -1,0 +1,32 @@
+{
+  "name": "express-jsonapi",
+  "version": "0.0.1",
+  "description": "An express server with JSONAPI setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Or Barmatz",
+    "email": "barmatzor@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "body-parser": "^1.14.1",
+    "chalk": "^1.1.1",
+    "config": "^1.17.1",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "morgan": "^1.6.1",
+    "mysql": "^2.9.0",
+    "sequelize": "^3.14.2",
+    "underscore": "^1.8.3",
+    "winston": "^2.1.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

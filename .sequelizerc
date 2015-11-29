@@ -1,0 +1,7 @@
+'use strict';
+
+module.exports = {
+  "models-path": "./lib/models",
+  "migrations-path": "./sequelize/migrations",
+  "seeders-path": "./sequelize/seeders"
+};
